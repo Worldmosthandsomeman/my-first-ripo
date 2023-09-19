@@ -1,0 +1,12 @@
+.hihi{
+    width: 30%;
+  height: calc(100vh - 87px);
+  
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  justify-content: end;
+}
+
